@@ -1,9 +1,5 @@
 # Baparekraf-Digital-Talent-Tahap-2
 
-Melanjutkan sukses program sebelumnya (2016-2021) dalam naungan Bekraf dan Kemenparekraf/Baparekraf, yang telah memfasilitasi puluhan ribu pengembang aplikasi dan solusi digital, Kemenparekraf/Baparekraf kembali menggelar Program Pengembangan Talenta Digital Kreatif tahun 2022.
-
-Fasilitasi yang berfokus pada Front-End Web Developer beserta kegiatan Baparekraf Developer Day Online telah sukses dilaksanakan dari April 2022.
-
 Bekerja sama dengan Google, Tahap 2 dari Program Pengembangan Talenta Digital Kreatif akan dilaksanakan dengan fasilitasi yang fokus pada pengembangan Android, Machine Learning, IT Support, dan Analisis Data.
 
 Peserta fasilitasi akan dibekali dengan materi, tutorial, latihan, pembelajaran berbasis proyek (project-based learning) dengan standar global, serta dukungan mentor, fasilitator, dan forum diskusi online untuk membantu peserta menyelesaikan program fasilitasi ini. Seluruh aktivitas (termasuk event dan fasilitasi) akan dilakukan secara daring (dalam jaringan/online).
